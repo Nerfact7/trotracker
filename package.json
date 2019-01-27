@@ -1,0 +1,29 @@
+{
+  "name": "yellowtracker",
+  "description": "Ragnarok MVP tracker for discord",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "8.11.4",
+    "npm": "5.7.1"
+  },
+  "dependencies": {
+    "asciitable": "0.0.7",
+    "pg": "7.4.3",
+    "discord.js": "11.4.2",
+    "ffmpeg-binaries": "4.0.0",
+    "node-opus": "0.2.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorgawk/yellowtracker.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorgawk/yellowtracker/issues"
+  },
+  "homepage": "https://github.com/victorgawk/yellowtracker#readme"
+}
